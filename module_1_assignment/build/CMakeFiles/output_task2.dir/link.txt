@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/output_task2.dir/task2.cpp.o CMakeFiles/output_task2.dir/tasks_lib.cpp.o -o output_task2 
